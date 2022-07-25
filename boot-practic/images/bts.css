@@ -1,0 +1,20 @@
+.img1 {
+    background: linear-gradient(to top, black, transparent);
+
+}
+
+form:hover {
+    background-color: dodgerblue;
+    transform: scale(1.2);
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    margin: 10px;
+}
+
+form:hover a {
+    padding: 0 10px;
+    color: white;
+    background: white;
+    color: blue;
+}

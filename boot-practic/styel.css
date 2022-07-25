@@ -1,0 +1,21 @@
+.feedback {
+    background: linear-gradient(90deg, blue, rgb(233, 22, 127));
+}
+
+.liner {
+    background: linear-gradient(90deg, blue, rgb(233, 22, 127));
+}
+
+.saven {
+    background-image: url("images/Nokia-5.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    height: 80vh;
+}
+
+.end-page {
+    background: linear-gradient(90deg, blue, rgb(233, 22, 127));
+    height: 40vh;
+}
